@@ -69,8 +69,6 @@ Data Storage
 
 The employee data is stored in an Excel file named employees.xlsx. The file is automatically created if it does not exist.
 
-License
 
-This project is open-source and available for use under the MIT License.
 
 
